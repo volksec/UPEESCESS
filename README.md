@@ -2,7 +2,7 @@
 
 Enumerate WordPress users by leveraging the /author/<number> endpoint. 
 
-![Screenshot]()
+![Screenshot](https://github.com/volksec/UPEESCESS/blob/main/example.png?raw=true)
 
 This script follows HTTP redirects to identify valid user profiles on a WordPress site.
 
